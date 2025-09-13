@@ -1,2 +1,3 @@
-# yt-digest-extension
-Browser Extension: YouTube Transcript &amp; Summary
+# YT Digest Extension
+
+> Browser Extension: YouTube Transcript &amp; Summary
